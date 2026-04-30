@@ -1,5 +1,13 @@
 # @mastra/koa
 
+## 1.4.16-alpha.2
+
+### Patch Changes
+
+- Updated dependencies:
+  - @mastra/core@1.31.0-alpha.2
+  - @mastra/server@1.31.0-alpha.2
+
 ## 1.4.16-alpha.1
 
 ### Patch Changes
